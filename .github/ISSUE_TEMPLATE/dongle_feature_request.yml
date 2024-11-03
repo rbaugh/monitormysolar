@@ -10,18 +10,18 @@ body:
       label: "Feature Name"
       description: "Give a brief name for the feature you’re requesting."
       placeholder: "Enter feature name here"
-    validations:
-      required: true
-    
+  validations:
+    required: true
+
   - type: dropdown
-    id: UI_Firmware
     attributes:
-      label: "UI Or Firmware Feature?"
+      label: UI Or Firmware Feature?
       options:
         - UI
         - Firmware
-    validations:
-      required: true
+      validations:
+        required: true
+
 
   - type: textarea
     id: feature_description
@@ -48,4 +48,6 @@ body:
       description: "Provide the current firmware version, if applicable."
       placeholder: "Enter firmware version"
     validations:
-      required: false
+      required: true
+
+
