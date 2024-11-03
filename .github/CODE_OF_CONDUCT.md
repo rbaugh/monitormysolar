@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Welcome to the **Monitor My Solar** repository! To create a collaborative and productive environment, we ask that all contributors and users adhere to the following guidelines. 
+Welcome to the **Monitor My Solar** repository! To create a collaborative and productive environment, we ask that all contributors and users adhere to the following guidelines.
 
 ## 1. Respect and Courtesy
 
@@ -17,7 +17,7 @@ Before opening a new issue, **please check the existing issues** to see if your 
 
 ## 4. License Compliance
 
-By contributing to this repository, you agree that all code is subject to the terms of our [LICENSE](../LICENSE). Ensure that your contributions do not include unlicensed or incompatible code from third-party sources. Respect the license terms for any code, dependencies, or resources included in your contributions.
+By contributing to this repository, you agree that all code is subject to the terms of our [LICENSE](./LICENSE). Ensure that your contributions do not include unlicensed or incompatible code from third-party sources. Respect the license terms for any code, dependencies, or resources included in your contributions.
 
 ## 5. Constructive Feedback and Reviews
 
